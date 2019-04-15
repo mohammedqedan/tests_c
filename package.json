@@ -1,0 +1,23 @@
+{
+  "name": "tests_c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedqedan/tests_c.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedqedan/tests_c/issues"
+  },
+  "homepage": "https://github.com/mohammedqedan/tests_c#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
